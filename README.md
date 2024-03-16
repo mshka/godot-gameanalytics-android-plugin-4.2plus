@@ -18,4 +18,4 @@ I'm using this in my project so i'll aim to maintain this as much as i can for f
 - Checkout root project here 
 - Run `./gradlew.bat assemble`
 - Files build will be located under `GodotGameAnalytics\build\outputs\aar`
-
+- Plugin usage docs can be found [here](https://docs.gameanalytics.com/integrations/sdk/godot/#initialization)
