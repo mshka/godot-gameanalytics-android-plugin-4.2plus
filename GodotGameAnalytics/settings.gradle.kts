@@ -1,4 +1,4 @@
-include(":PluginGodotGameAnalytics")
+include(":GodotGameAnalytics")
 pluginManagement {
     repositories {
         google()
@@ -19,4 +19,4 @@ dependencyResolutionManagement {
 
 // TODO: Update project's name.
 rootProject.name = "GameAnalytics"
-include(":GodotGameAnalytics")
+include(":plugin")
