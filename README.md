@@ -7,7 +7,7 @@ I'm using this in my project so i'll aim to maintain this as much as i can for f
 
 ## Usage
 
-- Download the files from [arr-plugins](/arr-plugins) and copy inside your godot project inside android/plugins
+- Download the files from [arr-plugins](/tree/main/aar-plugins) and copy inside your godot project inside android/plugins
 - Check gradle build and GameAnalytics in project->export->Android in godot
 
 
@@ -17,5 +17,5 @@ I'm using this in my project so i'll aim to maintain this as much as i can for f
 - Install Android SDK which installs graddle in your local env
 - Checkout root project here 
 - Run `./gradlew.bat assemble`
-- Files build will be located under `GodotGameAnalytics\build\outputs\aar`
+- Files built will be located under `GodotGameAnalytics\build\outputs\aar`
 - Plugin usage docs can be found [here](https://docs.gameanalytics.com/integrations/sdk/godot/#initialization)
