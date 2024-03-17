@@ -7,7 +7,7 @@ I'm using this in my project so i'll aim to maintain this as much as i can for f
 
 ## Usage
 
-- Download the files from [arr-plugins](/tree/main/aar-plugins) and copy inside your godot project inside android/plugins
+- Download the files from [arr-plugins](https://github.com/mshka/godot-gameanalytics-android-plugin-4.2plus/tree/main/aar-plugins) and copy inside your godot project inside android/plugins
 - Check gradle build and GameAnalytics in project->export->Android in godot
 
 
